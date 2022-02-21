@@ -16,7 +16,7 @@ I am a mobile software engineer and team leader
 
 [<img align="left" alt="Skype" src="https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white" />](https://join.skype.com/invite/HEJQ4r2Q0SUW)
 [<img align="left" alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/Warriorofhwb)
-[<img align="left" alt="Discord" src="https://img.shields.io/badge/%3CDiscord%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />](https://discord.gg/tvXjbNHpFP)
+[<img align="left" alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />](https://discord.gg/tvXjbNHpFP)
 [<img align="left" alt="Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />](https://web.whatsapp.com/send?phone=381613142486)
 [<img align="left" alt="G-mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](https://mail.google.com/mail/?view=cm&fs=1&to=youaredev123@gmail.com&su=SUBJECT&body=BODY)
 
