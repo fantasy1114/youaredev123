@@ -1,220 +1,59 @@
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=yaroslavzuev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="my github stats" width="420"/>&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaroslavzuev&layout=compact&theme=tokyonight&include_all_commits=true&count_private=true" alt="languages" height="165">
-</p>
+### Hi there 👋 
 
-- 𝗡𝗙𝗧 𝗠𝗶𝗻𝘁 𝗗𝗔𝗽𝗽𝘀
-<table>
-    <thead align="center">
-        <tr>
-            <td>PotatoPowerClue</td>
-            <td>CryptoPigs</td>
-            <td>DogePass</td>
-            <td>FunkiFoxes</td>
-        </tr>
-    </thead>
-    <tr>
-        <td>
-            <a href="https://mint.potatopower.club/">
-                <img src="https://github.com/kroim/profile/blob/master/projects/PotatoPowerClub.png?raw=true" width="200">
-            </a>
-        </td>
-        <td>
-            <a href="https://cryptopigs.one/#/">
-                <img src="https://github.com/kroim/profile/blob/master/projects/CryptoPig.png?raw=true" width="200">
-            </a>
-        </td>           
-        <td>
-            <a href="https://nft.dogepass.io/">
-                <img src="https://github.com/kroim/profile/blob/master/projects/DogePass.png?raw=true" width="200">
-            </a>
-        </td>
-        <td>
-            <a href="https://funkifoxes.com/">
-                <img src="https://github.com/kroim/profile/blob/master/projects/FunkiFoxes.png?raw=true" width="200">
-            </a>
-        </td>             
-    </tr>
-    <thead align="center">
-        <tr>
-            <td>CryptoSwords</td>
-            <td>ChubbyBunny</td>
-            <td>GekoSave</td>
-        </tr>
-    </thead>
-    <tr>
-        <td>
-            <a href="https://crypto-swords.com/" target="_blank">
-                <img src="https://github.com/kroim/profile/blob/master/projects/CryptoSwords.png?raw=true" width="200">
-            </a>
-        </td>   
-        <td>
-            <a href="https://chubbybunnynft.com/" target="_blank">
-                <img src="https://github.com/kroim/profile/blob/master/projects/ChubbyBunny1.png?raw=true" width="200">
-            </a>
-        </td>
-        <td>
-            <a href="https://gekosave.io/" target="_blank">
-                <img src="https://github.com/kroim/profile/blob/master/projects/GekoSave0.png?raw=true" width="200">
-            </a>
-        </td>                     
-    </tr>   
-</table>
+I am a mobile software engineer and team leader
 
-- 𝗡𝗙𝗧 𝗠𝗮𝗿𝗸𝗲𝘁𝗽𝗹𝗮𝗰𝗲𝘀
-<table>
-    <thead align="center">
-        <tr>
-            <td>IgarataArtNFT</td>
-            <td>RabbitNFT</td>
-            <td>LunaChowNFT</td>
-            <td>GekoSaveAuction</td>
-        </tr>
-    </thead>
-    <tr>
-        <td>
-            <a href="http://18.188.94.167:5000/">
-              <img src="https://github.com/kroim/profile/blob/master/projects/igaratanft.png?raw=true" width="200">
-            </a>
-        </td>        
-        <td>
-            <a href="https://rabbitnft.com/">
-              <img src="https://github.com/kroim/profile/blob/master/projects/rabbitnft.png?raw=true" width="200">
-            </a>
-        </td> 
-        <td>
-            <a href="http://209.145.53.68:5000">
-              <img src="https://github.com/kroim/profile/blob/master/projects/LunachowNFT.png?raw=true" width="200">
-            </a>
-        </td> 
-        <td>
-            <a href="https://gekosave.io/marketplace">
-              <img src="https://github.com/kroim/profile/blob/master/projects/GekoSave1.png?raw=true" width="200">
-            </a>
-        </td>
-    </tr>
-</table>
+- 🥰 Very active on mobile open source community especially on Flutter and React Native
+- 🥳 Enthusiast on game development with Unreal Engine and Unity
 
-- 𝗗𝗘𝗫
-<table>
-    <thead align="center">
-        <tr>
-            <td>CosmicSwap</td>
-            <td>DDEXX INFO</td>
-            <td>MaticSwap</td>  
-        </tr>
-    </thead>
-    <tr>
-        <td>
-            <a href="https://app.cosmicswap.finance/">
-                <img src="https://github.com/kroim/profile/blob/master/projects/cosmicswap.png?raw=true" width="200">
-            </a>
-        </td>          
-        <td>
-            <a href="http://analytics.ddexx.io">
-                <img src="https://github.com/kroim/profile/blob/master/projects/ddexinfo.png?raw=true" width="200">
-            </a>
-        </td>   
-        <td>
-            <a href="https://maticfront.web.app/farms">
-                <img src="https://github.com/kroim/profile/blob/master/projects/maticswap.png?raw=true" width="200">
-            </a>
-        </td> 
-    </tr>  
-</table>
+  
+[![FreakyCoder Github Streaks](https://github-readme-streak-stats.herokuapp.com/?user=wrathchaos&fire=eb1b0c&ring=eb1b0c&currStreakLabel=eb1b0c)]
 
-## 𝑺𝒌𝒊𝒍𝒍𝒔
-<table>
-  <tr>
-    <td><img src="https://res.cloudinary.com/teepublic/image/private/s--3ZjIytTm--/c_crop,x_10,y_10/c_fit,h_830/c_crop,g_north_west,h_1038,w_1038,x_-264,y_-104/l_upload:v1565806151:production:blanks:vdbwo35fw6qtflw9kezw/fl_layer_apply,g_north_west,x_-375,y_-215/b_rgb:262c3a/c_limit,f_auto,h_630,q_90,w_630/v1470823069/production/designs/625723_1.jpg" width="100"></td>
-    <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_truffle.png?raw=true" width="100"></td>
-    <td><img src="https://cryptologos.cc/logos/uniswap-uni-logo.svg" width="100"></td>
-    <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_pancake.png?raw=true" width="100"></td>
-    <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_metamask.png?raw=true" width="100"></td>
-    <td><img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/sqzgmbkggvc1uwgapeuy" width="100"></td>
-    <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" width="100"></td>
-    <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_defi.png?raw=true" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/swift-18-1174990.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/rubymine-1175004.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/go-76-1175027.png" width="100"></td>
-    <td><img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" width="144"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/angular-3-226070.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/electron-67-1175035.png" width="100"></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/react-3-1175109.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/vue-282497.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/node-js-1174925.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/javascript-24-1174950.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/typescript-1174965.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/mysql-18-1174938.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/java-59-1174952.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/cakephp-3-1175050.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/html5-2474805-2056091.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/sass-13-1175092.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/webpack-1-1174980.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/visualstudio-1-1174964.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/django-11-1175036.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/mongodb-4-1175139.png" width="100"></td>
-  </tr>
-  <tr>
-    <td><img src="https://moralis.io/wp-content/uploads/2021/06/Moralis-Glass-Favicon.svg" width="100"></td>
-    <td><img src="https://polygon.technology/wp-content/uploads/2021/05/matic-token-icon.svg" width="100"></td>
-    <td><img src="https://hardhat.org/apple-touch-icon.png" width="120"></td>
-    <td><img src="https://moralis.io/wp-content/uploads/2021/06/Moralis-Glass-Favicon.svg" width="120"></td>
-    <td><img src="https://cryptologos.cc/logos/binance-coin-bnb-logo.png?v=014" width="100"></td>
-    <td><img src="https://cryptologos.cc/logos/tron-trx-logo.svg?v=014" width="100"></td>
-    <td><img src="https://cryptologos.cc/logos/cardano-ada-logo.svg?v=014" width="100"></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
+  
+[![FreakyCoder Github Stats](https://github-readme-stats.vercel.app/api?username=wrathchaos&show_icons=true&count_private=true&include_all_commits=true&title_color=eb1b0c&icon_color=eb1b0c)]
+  
 
-<img height="300px" src="https://activity-graph.herokuapp.com/graph?username=yaroslavzuev&theme=github&count_private=true" />
+## Connect with me
 
-## 𝑾𝒉𝒂𝒕 𝑪𝒂𝒏 𝑫𝒐
+[<img align="left" alt="Skype" src="https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white" />](https://join.skype.com/invite/HEJQ4r2Q0SUW)
+[<img align="left" alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/Warriorofhwb)
+[<img align="left" alt="Discord" src="https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />](https://discord.gg/tvXjbNHpFP)
+[<img align="left" alt="Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />](https://web.whatsapp.com/send?phone=381613142486)
+[<img align="left" alt="G-mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](https://mail.google.com/mail/?view=cm&fs=1&to=youaredev123@gmail.com&su=SUBJECT&body=BODY)
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
- 
-### DApps & Online Betting Website
-<br />
 
-### Crypto Trading Platforms & Bots
-<br />
+<br>
+<br>
 
-### AR & VR Web and Mobile application
-<br />
+## Expertise
+<img align="left" alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
+<img align="left" alt="React Native" src="https://img.shields.io/badge/react_native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=%23ffffff"/>
+<img align="left" alt="Swift" src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"/>
+<img align="left" alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+<img align="left" alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img align="left" alt="Xamarin" src="https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white"/>
+<img align="left" alt="android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" />
+<img align="left" alt="ios" src="https://img.shields.io/badge/iOS%20-%236DB33F.svg?&style=for-the-badge&logo=apple&logoColor=white" />
 
-### Video Conference Web & Mobile application
-<br />
 
-## 𝑪𝒐𝒏𝒕𝒂𝒄𝒕
 
-<table>
-    <thead>
-        <th>Mail</th>
-        <th>Skype</th>
-        <th>Telegram</th>
-        <th>Discord</th>
-    </thead>
-    <tbody>
-        <tr>
-            <td>
-                <a href="mailto:yaroslavzuevdev@gmail.com">yaroslavzuevdev@gmail.com</a>
-            </td>
-            <td>
-                <a href="https://join.skype.com/invite/Kc1Tf02sKkMl">live:.cid.65522a46c116e9f8</a>
-            </td>
-            <td>
-                <a href="https://t.me/yaroslavzuev">@yaroslavzuev</a>
-            </td>
-            <td>
-                <a href="https://discord.gg">yaroslavzuev#3299</a>
-            </td>
-        </tr>
-    </tbody>
-</table>
+## Programming Languages
+
+<img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+<img align="left" alt="CSharp" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+<img align="left" alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
+<img align="left" alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
+<img align="left" alt="Codeigniter" src="https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white"/>
+<img align="left" alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
+<img align="left" alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img align="left" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img align="left" alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img align="left" alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
+<img align="left" alt="Vue" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/>
+<img align="left" alt="Vuetify" src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF"/>
+
+
+
+<br>
+<br>
+
+
