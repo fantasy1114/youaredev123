@@ -34,7 +34,8 @@ I am a mobile software engineer and team leader
 <img align="left" alt="android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" />
 <img align="left" alt="ios" src="https://img.shields.io/badge/iOS%20-%236DB33F.svg?&style=for-the-badge&logo=apple&logoColor=white" />
 
-
+<br>
+<br>
 
 ## Programming Languages
 
