@@ -1,6 +1,8 @@
+<style>
 img {
 margin-top:2px;
 }
+</style>
 <h1 align="center">Hi 👋, I'm a Senior Web & Mobile app developer || Talented Blockchain developer</h1>
 <h3 align="center">I am available now and can start right now.</h3>
 
