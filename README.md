@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm a Senior Web & Mobile app developer || Talented Blockchain developer</h1>
 <h3 align="center">I am available now and can start right now.</h3>
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+  
+[![FreakyCoder Github Streaks](https://github-readme-streak-stats.herokuapp.com/?user=wrathchaos&fire=eb1b0c&ring=eb1b0c&currStreakLabel=eb1b0c)]
 
-<h3 align="left">Connect with me:</h3>
+  
+[![FreakyCoder Github Stats](https://github-readme-stats.vercel.app/api?username=wrathchaos&show_icons=true&count_private=true&include_all_commits=true&title_color=eb1b0c&icon_color=eb1b0c)]
+  
+
+## Connect with me
+
 [<img align="left" alt="Skype" src="https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white" />](https://join.skype.com/invite/HEJQ4r2Q0SUW)
 [<img align="left" alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/Warriorofhwb)
 [<img align="left" alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />](https://discord.gg/tvXjbNHpFP)
@@ -16,7 +20,7 @@
 <br>
 <br>
 
-<h3 align="left">Languages and Tools:</h3>
+## Expertise
 <img align="left" alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
 <img align="left" alt="React Native" src="https://img.shields.io/badge/react_native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=%23ffffff"/>
 <img align="left" alt="Swift" src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"/>
@@ -29,7 +33,8 @@
 <br>
 <br>
 
-<h3 align="left">Languages and Tools:</h3>
+## Programming Languages
+
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 <img align="left" alt="CSharp" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <img align="left" alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
@@ -43,8 +48,9 @@
 <img align="left" alt="Vue" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/>
 <img align="left" alt="Vuetify" src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF"/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dfa&show_icons=true&locale=en&layout=compact" alt="dfa" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dfa&show_icons=true&locale=en" alt="dfa" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dfa&" alt="dfa" /></p>
+<br>
+<br>
+
+
