@@ -1,8 +1,4 @@
-<style>
-img {
-margin-top:2px;
-}
-</style>
+
 <h1 align="center">Hi 👋, I'm a Senior Web & Mobile app developer || Talented Blockchain developer</h1>
 <h3 align="center">I am available now and can start right now.</h3>
 
@@ -27,7 +23,7 @@ margin-top:2px;
 
 ## Backend Development
 
-<img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+<img align="left" margin-top="20px" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 <img align="left" alt="ExpressJS" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
 <img align="left" alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
 <img align="left" alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
