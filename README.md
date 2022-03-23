@@ -4,7 +4,7 @@
 
 ##
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,;+Welcome+to+My+Profile!;Over+7+years+of+programming+experience;Always+learning+new+things+;Senior+Web+Developer+;Senior+Mobile+App+Developer+;Talented+Blockchain+developer;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,;+Welcome+to+My+Profile!;Over+7+years+of+programming+experience;Always+learning+new+things+;Senior+Web+Developer+;Senior+Mobile+App+Developer+;Talented+Blockchain+developer;)](https://github.com/youaredev123)
   
 [![FreakyCoder Github Streaks](https://github-readme-streak-stats.herokuapp.com/?user=wrathchaos&fire=eb1b0c&ring=eb1b0c&currStreakLabel=eb1b0c)]
 
