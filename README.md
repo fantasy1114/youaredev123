@@ -1,10 +1,10 @@
 
-<h1 align="center">Hi 👋, I'm a Senior Web & Mobile app developer || Talented Blockchain developer</h1>
+<h1 align="center">Hi 👋, I'm a Talented Blockchain developer || Senior Web developer</h1>
 <h3 align="center">I am available now and can start right now.</h3>
 
 ##
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,;+Welcome+to+My+Profile!;Over+7+years+of+programming+experience;Always+learning+new+things+;Senior+Web+Developer+;Senior+Mobile+App+Developer+;Talented+Blockchain+developer;)](https://github.com/youaredev123)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,;+Welcome+to+My+Profile!;Over+7+years+of+programming+experience;Always+learning+new+things+;Talented+Blockchain+developer+;Senior+Web+Developer;)](https://github.com/youaredev123)
   
 [![FreakyCoder Github Streaks](https://github-readme-streak-stats.herokuapp.com/?user=wrathchaos&fire=eb1b0c&ring=eb1b0c&currStreakLabel=eb1b0c)]
 
@@ -16,9 +16,24 @@
 
 [<img align="left" alt="Skype" src="https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white" />](https://join.skype.com/invite/HEJQ4r2Q0SUW)
 [<img align="left" alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/Warriorofhwb)
-[<img align="left" alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />](https://discord.gg/tvXjbNHpFP)
-[<img align="left" alt="Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />](https://web.whatsapp.com/send?phone=381613142486)
+
 [<img align="left" alt="G-mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](https://mail.google.com/mail/?view=cm&fs=1&to=youaredev123@gmail.com&su=SUBJECT&body=BODY)
+
+
+<br>
+<br>
+
+## Blockchain development
+
+<img align="left" alt="Solidity" src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />
+<img align="left" alt="Rust" src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />
+<img align="left" alt="Go/Golang" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
+<img align="left" alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white" />
+<img align="left" alt="Ethereum" src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" />
+
+#
+
+<img align="left" alt="Binance" src="https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white" />
 
 
 <br>
@@ -93,21 +108,7 @@
 <br>
 <br>
 
-## Blockchain development
 
-<img align="left" alt="Solidity" src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />
-<img align="left" alt="Rust" src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />
-<img align="left" alt="Go/Golang" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
-<img align="left" alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white" />
-<img align="left" alt="Ethereum" src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" />
-
-#
-
-<img align="left" alt="Binance" src="https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white" />
-
-
-<br>
-<br>
 
 ## CI/CD(DevOps)
 
