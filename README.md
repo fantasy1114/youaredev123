@@ -23,48 +23,6 @@
 <br>
 <br>
 
-## Blockchain development
-
-<img align="left" alt="Blockchain Architecture" src="https://img.shields.io/badge/Blockchain Architecture-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />
-
-#
-
-<img align="left" alt="Crypocurrency" src="https://img.shields.io/badge/Crypocurrency-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />
-<img align="left" alt="Smart Contract" src="https://img.shields.io/badge/Smart Contract-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />
-<img align="left" alt="Eco-System" src="https://img.shields.io/badge/Eco-System-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />
-<img align="left" alt="Solidity" src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />
-<img align="left" alt="Solana" src="https://img.shields.io/badge/Solana-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />
-
-#
-
-<img align="left" alt="Rust" src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />
-<img align="left" alt="Web3.js" src="https://img.shields.io/badge/Web3.js-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />
-<img align="left" alt="Defi" src="https://img.shields.io/badge/Defi-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />
-<img align="left" alt="DApps" src="https://img.shields.io/badge/DApps-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />
-<img align="left" alt="NFT" src="https://img.shields.io/badge/NFT-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />
-
-#
-
-<img align="left" alt="NFT mint" src="https://img.shields.io/badge/NFT mint-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />
-<img align="left" alt="NFT marketplace" src="https://img.shields.io/badge/NFT marketplace-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />
-<img align="left" alt="ERC-20" src="https://img.shields.io/badge/ERC-20-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />
-<img align="left" alt="ERC-721" src="https://img.shields.io/badge/ERC-721-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />
-<img align="left" alt="Blockchain Forks" src="https://img.shields.io/badge/Blockchain Forks-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />
-
-#
-
-<img align="left" alt="Go/Golang" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
-<img align="left" alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white" />
-<img align="left" alt="Ethereum" src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" />
-
-#
-
-<img align="left" alt="Binance" src="https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white" />
-
-
-<br>
-<br>
-
 ## Backend Development
 
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
@@ -112,6 +70,48 @@
 <img align="left" alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img align="left" alt="Tailwind" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 <img align="left" alt="Jquery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
+<br>
+<br>
+
+## Blockchain development
+
+<img align="left" alt="Blockchain Architecture" src="https://img.shields.io/badge/Blockchain Architecture-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />
+
+#
+
+<img align="left" alt="Crypocurrency" src="https://img.shields.io/badge/Crypocurrency-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />
+<img align="left" alt="Smart Contract" src="https://img.shields.io/badge/Smart Contract-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />
+<img align="left" alt="Eco-System" src="https://img.shields.io/badge/Eco-System-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />
+<img align="left" alt="Solidity" src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />
+<img align="left" alt="Solana" src="https://img.shields.io/badge/Solana-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />
+
+#
+
+<img align="left" alt="Rust" src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />
+<img align="left" alt="Web3.js" src="https://img.shields.io/badge/Web3.js-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />
+<img align="left" alt="Defi" src="https://img.shields.io/badge/Defi-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />
+<img align="left" alt="DApps" src="https://img.shields.io/badge/DApps-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />
+<img align="left" alt="NFT" src="https://img.shields.io/badge/NFT-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />
+
+#
+
+<img align="left" alt="NFT mint" src="https://img.shields.io/badge/NFT mint-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />
+<img align="left" alt="NFT marketplace" src="https://img.shields.io/badge/NFT marketplace-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />
+<img align="left" alt="ERC-20" src="https://img.shields.io/badge/ERC-20-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />
+<img align="left" alt="ERC-721" src="https://img.shields.io/badge/ERC-721-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />
+<img align="left" alt="Blockchain Forks" src="https://img.shields.io/badge/Blockchain Forks-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />
+
+#
+
+<img align="left" alt="Go/Golang" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
+<img align="left" alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white" />
+<img align="left" alt="Ethereum" src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" />
+
+#
+
+<img align="left" alt="Binance" src="https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white" />
+
+
 <br>
 <br>
 
